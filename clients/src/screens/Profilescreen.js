@@ -75,7 +75,7 @@ export default Profilescreen;
       }
   return (
     <div>
-      <div className="row">
+      <div className="row justify-content-center mt-5">
         <div className="col-md-6">
            {loading && (<Loader/>)}
            {bookings && (bookings.map(booking=>{
@@ -111,9 +111,9 @@ export function MyProfile(){
     },[]);
 
     return(
-        <div className="row">
+        <div className="row justify-content-center mt-5">
             <div className="col-md-5">
-            <div className='bs'>
+            <div className='bs center'>
             <h1>My Profile</h1>
             <br/>
             <h1>Name: {user.name}</h1>

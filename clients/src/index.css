@@ -77,7 +77,7 @@ h1{
  
 }
 
-input, select ,.ant-picker{
+input, select ,.ant-picker .dropdown1 {
   box-shadow: none;
   margin-top: 10px !important;
   border:2px solid black !important;
@@ -86,6 +86,8 @@ input, select ,.ant-picker{
   border-radius: 3px;
  
 }
+
+
 
 h2{
   font-size: 40px ;

@@ -5,9 +5,9 @@ function Landingscreen() {
   return (
     <div className='row landing'>
       <div className="col-md-12 text-center">
-        <h2 style={{color:'white',fontSize:'120px'}}>OneWay Hotel</h2>
-        <h1 style={{color:'white',fontSize:'50px'}}>अतिथि देवो भवः</h1>
-        <Link to='/home'>
+        <h2 style={{color:'white',fontSize:'120px'}}>Custom Incentive</h2>
+        <h1 style={{color:'white',fontSize:'50px'}}>Get your own reward...</h1>
+        <Link to='/form'>
             <button className='btn btn-primary landing-btn'>Get Started</button>
         </Link>
       </div>

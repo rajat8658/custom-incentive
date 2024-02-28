@@ -23,7 +23,7 @@ function Loginscreen() {
         setLoading(false);
 
         localStorage.setItem('currentUser', JSON.stringify(result));
-        window.location.href='/home'
+        window.location.href='/form'
         
       } catch (error) {
         console.log(error)

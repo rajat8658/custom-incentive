@@ -3,9 +3,9 @@ import React from 'react'
 const Aboutscreen = () => {
   return (
     <div className=' col-md-9 bs asr'>
-      <h1 className='mt-4 '>About OneWay Hotel</h1>
-      <br /><p className='col-md-9 bs'>OneLife works as a platform for users to register as blood to either request/donate blood and blood banks to manage their stocks by managing the pending donations and request along with scheduling blood camps and managing them. The system will authenticate the user/bank using their username(mobile) and password to further perform other actions.</p>
-      <br /><p className='col-md-9 bs'>It includes managing and tracking blood donations, connecting donors with recipients, and providing real-time information on blood shortages and needs. The platform will include both a user-facing interface and an blood bank’s interface for managing the data.</p>
+      <h1 className='mt-4 '>About Custom Incentive</h1>
+      <br /><p className='col-md-9 bs'>The <b>CUSTOM INCENTIVE</b> portal is nothing but a incentive management application helps the employee to get their excitement reward by showcasing their talent in the sales. A holiday package is also introduced with this to help the employees to enjoy thier lives who did excellent job during the sales. </p>
+      <br /><p className='col-md-9 bs'><b>Created by</b><br/> Rajat Kumar Moharana<br/> Maulana Azad National Institute of Technology, Bhopal<br/> +91 8658991924</p>
       <p className='text-right text-5xl'>
         <br />
 

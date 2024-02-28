@@ -12,7 +12,7 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg ">
         <div className="container-fluid">
           <a className="navbar-brand" href="/home">
-            OneWay Hotel
+            Custom Incentive
           </a>
           <button
             className="navbar-toggler"
